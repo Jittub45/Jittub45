@@ -27,9 +27,9 @@
 <br><br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=jittub45" alt="jittub45" /></a> </p>
 <br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jittub45&show_icons=true&locale=en&layout=compact" alt="jittub45" /></p>
+<p><img align="left" width="495" src="https://github-readme-stats.vercel.app/api/top-langs?username=jittub45&show_icons=true&locale=en&layout=compact" alt="jittub45" /></p>
 <br><br>
-<p><img align="right" alt="Coding"  src="https://github-readme-stats.vercel.app/api?username=jittub45&show_icons=true&locale=en" alt="jittub45" /></p>
+<p><img align="right" width="495" alt="Coding" src="https://github-readme-stats.vercel.app/api?username=jittub45&show_icons=true&locale=en" alt="jittub45" /></p>
 <br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jittub45&" alt="jittub45" /></p>
+<p><img align="left" width="495" src="https://github-readme-streak-stats.herokuapp.com/?user=jittub45&" alt="jittub45" /></p>
