@@ -33,3 +33,6 @@
 <br><br>
 
 <p><img align="left" width="495" src="https://github-readme-streak-stats.herokuapp.com/?user=jittub45&" alt="jittub45" /></p>
+<img src="https://raw.githubusercontent.com/bhanupriya-art/bhanupriya-art/output/snake.svg" alt="Snake animation" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jittub45&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
