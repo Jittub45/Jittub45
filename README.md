@@ -90,6 +90,23 @@
 <br>
 
 [![](https://visitcount.itsvg.in/api?id=Jittub45&icon=0&color=0)](https://visitcount.itsvg.in)
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
+
+---
+
+
+##  More GitHub Analytics
+
+###  Repository Summary
+-  **Total Public Repos**: ![Public Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%Jittub45&style=flat-square)
+-  **Total Stars Earned**: ![GitHub stars](https://img.shields.io/github/stars/Jittub45?style=flat-square)
+-  **Recent Commit Activity (this repo)**: ![GitHub commits](https://img.shields.io/github/commit-activity/m/Jittub45/Jittub45?style=flat-square)
+-  **Open PRs (this repo)**: ![GitHub pull requests](https://img.shields.io/github/issues-pr/Jittub45/Jittub45?style=flat-square)
+-  **Open Issues (this repo)**: ![GitHub issues](https://img.shields.io/github/issues/Jittub45/Jittub45?style=flat-square)
+
+---
 
 ## Footer
 
@@ -98,3 +115,4 @@
     <em>Thanks for visiting! Let's connect and build something amazing together. 🚀</em>
   </p>
 </div>
+
